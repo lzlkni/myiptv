@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台",无线新闻台 1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台",无线新闻台 2
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视",人间卫视 1
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台",中天新聞台 1
+http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台 1
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台 2
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台 3
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台 4
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯 1
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯 2
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯 3
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯 4
+http://parking.treasureislandresortsworld.com:1001/hls/301/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文 1
+http://171.213.142.217:1880/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文 2
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台",東森新聞台 1
+http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台",龍華電影台 1
+http://152.32.229.52:5050/litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="亞太台" tvg-name="亞太台",亞太台 1
+http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台",NOW新闻台 1
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="BBC News (720p)" tvg-name="BBC News (720p)",BBC News (720p) 1
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻",半岛新闻 1
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="CNN USA" tvg-name="CNN USA",CNN USA 1
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD",TVBS HD 1
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD",TVBS HD 2
+http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港 1
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港 2
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台",靖洋戲劇台 1
+http://152.32.229.52:5050/4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台",美亚电影台 1
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="NHK World Premium 日本" tvg-name="NHK World Premium 日本",NHK World Premium 日本 1
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台",明珠台 1
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-id="Fox News Now" tvg-name="Fox News Now",Fox News Now 1
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2",TVB J2 1
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV",VIUTV 1
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",[HD]tvbplus
+https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="綜合",[HD]凤凰香港
+https://stream1.freetv.fun/75e234378589af95bef39f3fc9b46fd9f199d2b0750b6ef7082cd363b1fb1654.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="綜合",[HD]凤凰香港
+https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视",凤凰卫视
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="有线综合" tvg-name="有线综合",有线综合
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-id="新加坡中文台" tvg-name="新加坡中文台",新加坡中文台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
